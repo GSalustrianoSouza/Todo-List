@@ -5,3 +5,13 @@
   border-radius: 5px;
   color: #fff;
 }
+
+.todo-header {
+  padding: 0.5em;
+  border-bottom: 1px solid #2c3035;
+  text-align: center;
+}
+
+.todo-header h1 {
+  margin: 0;
+}
